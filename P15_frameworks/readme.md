@@ -7,3 +7,4 @@ using angular framework:-
 6. type localhost:4200 in browser to open my-app
 7. use "ngrok http 4200" to host with ngrok.
 <img src="https://github.com/dhruv510/RTR108/blob/master/P15_frameworks/local.PNG"></img>
+<img src="https://github.com/dhruv510/RTR108/blob/master/P15_frameworks/global.PNG"></img>
