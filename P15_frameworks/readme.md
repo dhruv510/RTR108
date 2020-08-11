@@ -6,3 +6,4 @@ using angular framework:-
 5. using "ng serve --open" command to start localhost server at  localhost:4200
 6. type localhost:4200 in browser to open my-app
 7. use "ngrok http 4200" to host with ngrok.
+<img src="https://github.com/dhruv510/RTR108/blob/master/P15_frameworks/local.PNG"></img>
